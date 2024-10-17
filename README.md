@@ -1,4 +1,4 @@
-```
+```markdown
 # Hardhat Project
 
 This project utilizes Hardhat, a development environment for Ethereum software. It simplifies the process of building, testing, and deploying smart contracts on the Ethereum blockchain.
