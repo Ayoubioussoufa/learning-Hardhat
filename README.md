@@ -32,7 +32,6 @@ This project utilizes Hardhat, a development environment for Ethereum software. 
    ```
 
 5. **Deploy Contracts**:
-   Modify the deployment script in the `scripts` folder, then run:
    ```bash
-   npx hardhat run scripts/deploy.js
+   npx hardhat ignition deploy ./ignition/modules/Token.js --network <network-name>
    ```
